@@ -1,0 +1,12 @@
+:root {
+    --main-color: #35A29F;
+    --main-50-opacity: #35a29e8b;
+    --secondary-color: #0B666A;
+    --secondary-50-opacity: #0b656a7d;
+    --secondary-25-opacity: #0b656a40;
+    --secondary-bg: #85bcbf37;
+
+    --input-background: rgba(255, 255, 255, 0.762);
+
+    --error-color: #8C0200;
+}

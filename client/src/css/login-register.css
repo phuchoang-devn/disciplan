@@ -1,0 +1,91 @@
+.login-register-container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    background-image: linear-gradient(var(--secondary-25-opacity), var(--main-color) 120%);
+}
+
+.login-register-brandname {
+    font-size: 5rem;
+    font-family: logo-font;
+    color: var(--secondary-color);
+    margin: unset;
+}
+
+.login-form,
+.register-form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 30vw;
+    min-width: 250px;
+    border-radius: 5px;
+    padding-top: 2em;
+    background-color: white;
+    box-shadow: 0 10px 20px 1px rgba(0, 0, 0, 0.499);
+}
+
+.login-form > input,
+.register-form > input {
+    width: 75%;
+    margin: 2%;
+    height: 3em;
+    border: 1px solid rgba(0, 0, 0, 0.135);
+    padding-left: 5%;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.login-form > input::placeholder,
+.register-form > input::placeholder {
+    padding-left: 1%;
+    color: rgb(0, 0, 0);
+    opacity: 50%;
+}
+
+.login-form > input:focus,
+.register-form > input:focus {
+    background-color: var(--main-50-opacity);
+    border: 1px solid black;
+}
+
+.login-form > button,
+.register-form > button {
+    background-color: var(--secondary-color);
+    color: white;
+    font-size: 1em;
+    width: 80%;
+    padding: 14px 20px;
+    border: 1px solid transparent;
+    border-radius: 5px;
+    margin: 5%;
+    cursor: pointer;
+}
+
+.login-form > button:hover,
+.register-form > button:hover {
+    opacity: 80%;
+}
+
+.login-form > button:active
+.register-container > button:active {
+    background-color: white;
+    border: 1px solid black;
+    color: var(--secondary-color);
+}
+
+.login-separate-line,
+.register-separate-line {
+    height: 0;
+    width: 60%;
+    border: 1px solid rgba(0, 0, 0, 0.462);
+}
+
+#login-new-account,
+#register-submit {
+    background-color: var(--main-color);
+}

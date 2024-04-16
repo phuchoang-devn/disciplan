@@ -1,0 +1,56 @@
+.submit-info-container {
+    height: 100vh;
+    width: 100vw;
+    position: absolute;
+    z-index: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: rgba(0, 0, 0, 0.801);
+}
+
+.submit-info-indicator {
+    box-sizing: border-box;
+    height: 40vh;
+    width: 50vw;
+
+    border-width: 0.75em;
+    border-style: solid;
+    border-radius: 10px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: white;
+}
+
+.submit-info-icon {
+    font-size: 3rem;
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.submit-info-message {
+    font-size: 1.25rem;
+}
+
+.submit-info-close {
+    box-sizing: border-box;
+    min-width: fit-content;
+    min-height: fit-content;
+    height: 2.5em;
+    width: 6em;
+
+    font-size: 1.5rem;
+    color: white;
+    border: unset;
+    border-radius: 5px;
+}
+
+
+
