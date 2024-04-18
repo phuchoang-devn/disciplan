@@ -1,0 +1,14 @@
+name: disciplan
+
+services:
+  backend:
+    build: ./server
+    image: disciplan-server
+    ports:
+      - "8000:8000"
+
+  frontend:
+    build: ./client
+    image: disciplan-client
+    ports:
+      - "3000:3000"
