@@ -1,5 +1,6 @@
 # DISCIPLAN
 
+
 > Plan is the best friend of discipline.
 
 Not only as a calender, disciplan also help you assessing the progress in the past, and therefore creating a good plan for the future. With the cool design and the flexible usage, It will be like a familiar place that you visit every day. This is my fírst project with the main goal of getting acquainted with new languages (Python, Javascript) new technologies (like React, FastAPI, Docker, Git). It also means, that there are a lot of bugs, unclean code and incomplete features, but I have leaned a lot of good stuffs from it. :heart: :yellow_heart: :green_heart: :purple_heart:
