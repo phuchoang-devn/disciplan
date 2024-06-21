@@ -1,4 +1,4 @@
-#DISCIPLAN
+# DISCIPLAN
 
 > Plan is the best friend of discipline.
 
