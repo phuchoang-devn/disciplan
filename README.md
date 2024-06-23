@@ -1,6 +1,6 @@
 # DISCIPLAN <br>
 
-<br>
+
 > Plan is the best friend of discipline. <br>
 
 Not only as a calender, disciplan also help you assessing the progress in the past, and therefore creating a good plan for the future. With the cool design and the flexible usage, It will be like a familiar place that you visit every day. <br>
