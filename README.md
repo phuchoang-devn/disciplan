@@ -3,12 +3,46 @@
 
 > Plan is the best friend of discipline. <br>
 
-Not only as a calender, disciplan also help you assessing the progress in the past, and therefore creating a good plan for the future. With the cool design and the flexible usage, It will be like a familiar place that you visit every day. <br>
-
-This is my fírst project with the main goal of getting acquainted with new languages (Python, Javascript) new technologies (like React, FastAPI, Docker, Git). It also means, that there are a lot of bugs, unclean code and incomplete features, but I have leaned a lot of good stuffs from it. :heart: :yellow_heart: :green_heart: :purple_heart:
-
-![DISCIPLAN view week](https://scontent-ber1-1.xx.fbcdn.net/v/t1.15752-9/434653516_856314589842814_4966412043332987584_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=5f2048&_nc_ohc=WoKU5VJJTCoQ7kNvgEfx0aq&_nc_ht=scontent-ber1-1.xx&oh=03_Q7cD1QG8NtBE--Hj9hn3BcK78Sz3QVlIOdcQNFWV6CtyeYOajQ&oe=669D0171)
+The main purpose of this project was not to build a perfect application — but to learn. It serves as a hands-on introduction to modern backend and frontend development, containerization, and version control workflows. <br>
 
 ![DISCIPLAN task-info](https://github.com/phuchoang-devn/disciplan/assets/120661351/2a9a1111-b51e-4e82-9f47-a941cf1c5d2e)
 
-![DISCIPLAN task-eidt](https://github.com/phuchoang-devn/disciplan/assets/120661351/99478ad7-761f-4cde-b883-da1cb1248f57)
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- FastAPI
+- Python
+- REST API architecture
+
+### Frontend
+- React
+- JavaScript
+- Modern component-based UI architecture
+
+### DevOps / Tooling
+- Docker
+- Git
+
+---
+
+## ⚠️ Important Disclaimer
+
+This is my **first full-stack project**.
+
+That means:
+
+- 🐛 There are bugs.
+- 🧹 Some parts of the code are unclean.
+- 🚧 Certain features are incomplete.
+- 🔧 Refactoring is definitely needed.
+
+---
+
+## 💡 Final Note
+
+DISCIPLAN is a milestone in my development journey.  
+It may not be perfect, but it reflects real progress in learning modern web development.
+
+Feedback, suggestions, and contributions are always welcome!
